@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # p4-programa-desenvolve
 
 # Aula Prática: Métodos de Array em JavaScript
@@ -240,3 +241,7 @@ h. Criar uma função de busca que retorna produtos cujo nome contenha um termo 
 i. Calcular a média de avaliações para cada produto e adicionar como propriedade "averageRating"
 
 j. Encontrar o produto com a maior média de avaliações
+=======
+# projeto-4-koru
+Projeto - 4 em grupo "Determinados do grupo 15"
+>>>>>>> 8ccd6fb11de1789284c8ac7a228ea9f99e286d31
